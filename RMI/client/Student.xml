@@ -1,0 +1,51 @@
+<students>
+    <student>
+        <student_id>100</student_id>
+        <name>Mark</name>
+        <age>17</age>
+        <address>Carmen, Cagayan de Oro</address>
+        <contact_number>09123456789</contact_number>
+    </student>
+    <student>
+        <student_id>101</student_id>
+        <name>Justin Berber</name>
+        <age>19</age>
+        <address>Lapasan, Cagayan de Oro</address>
+        <contact_number>09123456789</contact_number>
+    </student>
+    <student>
+        <student_id>102</student_id>
+        <name>Amoooooo</name>
+        <age>17</age>
+        <address>Macasandig, Cagayan de Oro</address>
+        <contact_number>09123456789</contact_number>
+    </student>
+    <student>
+        <student_id>103</student_id>
+        <name>Astigmatisn</name>
+        <age>16</age>
+        <address>Kauswagan, Cagayan de Oro</address>
+        <contact_number>09123456789</contact_number>
+    </student>
+    <student>
+        <student_id>104</student_id>
+        <name>Shinu</name>
+        <age>15</age>
+        <address>Bulua, Cagayan de Oro</address>
+        <contact_number>09123456789</contact_number>
+    </student>
+    <student>
+        <student_id>105</student_id>
+        <name>Iring</name>
+        <age>15</age>
+        <address>Patag, Cagayan de Oro</address>
+        <contact_number>09123456789</contact_number>
+    </student>
+       <student>
+        <student_id>106</student_id>
+        <name>DogCat</name>
+        <age>15</age>
+        <address>Patag, Cagayan de Oro</address>
+        <contact_number>09123456789</contact_number>
+    </student>
+</students>

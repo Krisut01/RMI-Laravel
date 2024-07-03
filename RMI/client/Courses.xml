@@ -1,0 +1,52 @@
+<courses>
+    <course>
+        <course_id>200</course_id>
+        <student_id>100</student_id>
+        <course_title>ITE 18</course_title>
+        <course_description>Application Development</course_description>
+    </course>
+    <course>
+        <course_id>201</course_id>
+        <student_id>101</student_id>
+        <course_title>ITE 14</course_title>
+        <course_description>Data  Structures Techonlogy</course_description>
+    </course>
+    <course>
+        <course_id>202</course_id>
+        <student_id>102</student_id>
+        <course_title>PE Q4</course_title>
+        <course_description>Physical Fitness Education</course_description>
+    </course>
+    <course>
+        <course_id>203</course_id>
+        <student_id>103</student_id>
+        <course_title>EEP 104</course_title>
+        <course_description> Enhancement English </course_description>
+    </course>
+    <course>
+        <course_id>204</course_id>
+        <student_id>104</student_id>
+        <course_title>ITE 12</course_title>
+        <course_description>Fundamentals of Programming</course_description>
+    </course>
+      <course>
+        <course_id>204</course_id>
+        <student_id>105</student_id>
+        <course_title>ITE 12</course_title>
+        <course_description>Fundamentals of Programming</course_description>
+    </course>
+    
+      <course>
+        <course_id>203</course_id>
+        <student_id>105</student_id>
+        <course_title>EEP 104</course_title>
+        <course_description> Enhancement English </course_description>
+    </course>
+       
+         <course>
+        <course_id>203</course_id>
+        <student_id>104</student_id>
+        <course_title>EEP 104</course_title>
+        <course_description> Enhancement English </course_description>
+    </course>
+</courses>
